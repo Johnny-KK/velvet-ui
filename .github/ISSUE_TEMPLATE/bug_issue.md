@@ -1,3 +1,8 @@
+---
+name: Bug
+about: Create a bug report
+---
+
 # 描述这个问题
 清晰简洁地描述这个问题是什么。
 

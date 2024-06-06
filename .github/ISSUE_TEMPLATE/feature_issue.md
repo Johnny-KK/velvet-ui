@@ -1,3 +1,8 @@
+---
+name: Feature
+about: Create a feature issue
+---
+
 # 解决什么问题：
 XXXXXXXXXXXXXXXXXX
 
