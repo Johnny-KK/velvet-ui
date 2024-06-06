@@ -1,3 +1,8 @@
+---
+name: User Story
+about: Create a user story issue
+---
+
 # Parent Issue
 Issue #xxx *(link the issue by replacing xxx with the issue number)*
 
